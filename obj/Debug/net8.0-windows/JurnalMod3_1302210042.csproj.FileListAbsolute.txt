@@ -1,0 +1,17 @@
+D:\JurnalMod3_1302210042\JurnalMod3_1302210042\bin\Debug\net8.0-windows\JurnalMod3_1302210042.exe
+D:\JurnalMod3_1302210042\JurnalMod3_1302210042\bin\Debug\net8.0-windows\JurnalMod3_1302210042.deps.json
+D:\JurnalMod3_1302210042\JurnalMod3_1302210042\bin\Debug\net8.0-windows\JurnalMod3_1302210042.runtimeconfig.json
+D:\JurnalMod3_1302210042\JurnalMod3_1302210042\bin\Debug\net8.0-windows\JurnalMod3_1302210042.dll
+D:\JurnalMod3_1302210042\JurnalMod3_1302210042\bin\Debug\net8.0-windows\JurnalMod3_1302210042.pdb
+D:\JurnalMod3_1302210042\JurnalMod3_1302210042\obj\Debug\net8.0-windows\JurnalMod3_1302210042.Form1.resources
+D:\JurnalMod3_1302210042\JurnalMod3_1302210042\obj\Debug\net8.0-windows\JurnalMod3_1302210042.csproj.GenerateResource.cache
+D:\JurnalMod3_1302210042\JurnalMod3_1302210042\obj\Debug\net8.0-windows\JurnalMod3_1302210042.GeneratedMSBuildEditorConfig.editorconfig
+D:\JurnalMod3_1302210042\JurnalMod3_1302210042\obj\Debug\net8.0-windows\JurnalMod3_1302210042.AssemblyInfoInputs.cache
+D:\JurnalMod3_1302210042\JurnalMod3_1302210042\obj\Debug\net8.0-windows\JurnalMod3_1302210042.AssemblyInfo.cs
+D:\JurnalMod3_1302210042\JurnalMod3_1302210042\obj\Debug\net8.0-windows\JurnalMod3_1302210042.csproj.CoreCompileInputs.cache
+D:\JurnalMod3_1302210042\JurnalMod3_1302210042\obj\Debug\net8.0-windows\JurnalMod3_1302210042.sourcelink.json
+D:\JurnalMod3_1302210042\JurnalMod3_1302210042\obj\Debug\net8.0-windows\JurnalMod3_1302210042.dll
+D:\JurnalMod3_1302210042\JurnalMod3_1302210042\obj\Debug\net8.0-windows\refint\JurnalMod3_1302210042.dll
+D:\JurnalMod3_1302210042\JurnalMod3_1302210042\obj\Debug\net8.0-windows\JurnalMod3_1302210042.pdb
+D:\JurnalMod3_1302210042\JurnalMod3_1302210042\obj\Debug\net8.0-windows\JurnalMod3_1302210042.genruntimeconfig.cache
+D:\JurnalMod3_1302210042\JurnalMod3_1302210042\obj\Debug\net8.0-windows\ref\JurnalMod3_1302210042.dll
